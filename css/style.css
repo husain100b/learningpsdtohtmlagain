@@ -324,3 +324,86 @@ body {
 .team-name span {
 	font-size: 14px;
 }
+
+/*===========================
+	PRICING TABLE AREA
+=============================*/
+.pricing-table-area {}
+.single-pricing {}
+.single-pricing h2 {
+	background: #485460;
+	color: #fff;
+	font-weight: 400;
+	font-size: 26px;
+	line-height: 26px;
+	padding: 30px 0;
+}
+.single-pricing span {
+	font-size: 20px;
+	color: #485460;
+	background: #F8F9FB;
+	display: block;
+	padding: 22px 0;
+	line-height: 22px;
+}
+.single-pricing ul {
+	list-style: none;
+	background: #fff;
+}
+.single-pricing ul li {
+	color: #8c9299;
+	font-size: 14px;
+	border-bottom: 1px solid #ECF0F1;
+	line-height: 45px;
+}
+.pricing-buy {
+	background: #f8f9fb;
+	padding: 30px 0;
+}
+.pricing-buy a {}
+.pric-btn {
+	background: #788492;
+	padding: 10px 50px; 
+}
+.pric-btn:hover {
+	background: #49CBCD;
+}
+h2.paste-bg {
+	background: #49CBCD;
+}
+.paste-bg {
+	background: #49CBCD;
+}
+a.paste-bg:hover {
+	background: #788492;
+}
+
+/*============================
+	TESTIMONIAL AREA STYLES
+==============================*/
+.testimonial-area {}
+.single-testimonial {}
+.single-testimonial h2 {
+	font-weight: 400;
+	font-size: 42px;
+	color: #4e525d;
+	line-height: 44px;
+	margin-bottom: 45px;
+}
+.single-testimonial p {
+	font-size: 19px;
+	color: #4e525d;
+	line-height: 30px;
+}
+.single-testimonial span {
+	font-size: 21px;
+	color: #9a8faf;
+	margin-top: 40px;
+	display: inline-block; 
+	line-height: 21px;
+}
+.testimonial-carousel-active .owl-nav div {
+	background: none;
+	color: #666;
+	font-size: 30px;
+}
